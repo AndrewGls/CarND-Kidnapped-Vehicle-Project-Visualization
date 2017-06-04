@@ -1,6 +1,11 @@
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
+<p align="center">
+<a href="https://youtu.be/2pjqMjNCU08" target="_blank"><img src="http://img.youtube.com/vi/2pjqMjNCU08/0.jpg" 
+alt="Particle Filter" width="480" height="360" border="10" /></a>
+</p>
+
 #### Submission
 All you will submit is your completed version of `particle_filter.cpp`, which is located in the `src` directory. You should probably do a `git pull` before submitting to verify that your project passes the most up-to-date version of the grading code (there are some parameters in `src/main.cpp` which govern the requirements on accuracy and run time.)
 
@@ -130,9 +135,3 @@ The things the grading code is looking for are:
 1. **Accuracy**: your particle filter should localize vehicle position and yaw to within the values specified in the parameters `max_translation_error` and `max_yaw_error` in `src/main.cpp`.
 
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
-
-
-<p align="center">
-<a href="https://youtu.be/2pjqMjNCU08" target="_blank"><img src="http://img.youtube.com/vi/2pjqMjNCU08/0.jpg" 
-alt="Particle Filter" width="480" height="360" border="10" /></a>
-</p>
