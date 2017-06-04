@@ -132,3 +132,7 @@ The things the grading code is looking for are:
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
 
 
+<p align="center">
+<a href="https://youtu.be/2pjqMjNCU08" target="_blank"><img src="http://img.youtube.com/vi/2pjqMjNCU08/0.jpg" 
+alt="Particle Filter" width="240" height="180" border="10" /></a>
+</p>
